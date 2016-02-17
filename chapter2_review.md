@@ -1,5 +1,4 @@
-# Header 1
-# Chapter 2 Review Questions
+Chapter 2 Review Questions
 Name: Azharuddin Hussaini Mohammad
 Course: 5143 Operating Systems
 Date: 16 Feb 2016
