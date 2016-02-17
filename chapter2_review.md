@@ -1,7 +1,9 @@
-*Chapter 2 Review Questions
-*Name: Azharuddin Hussaini Mohammad
-*Course: 5143 Operating Systems
-*Date: 16 Feb 2016
+
+
+Chapter 2 Review Questions
+Name: Azharuddin Hussaini Mohammad
+Course: 5143 Operating Systems
+Date: 16 Feb 2016
 
 ## What are three objectives of an OS design?
 *The three main objectives of an OS design are:
