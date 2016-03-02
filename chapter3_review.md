@@ -13,9 +13,9 @@ Swapping is a form of memory management. It is moving from/to secondary storage 
 Memory management is a way in which computer can store and retrieve data from secondary storage for use in main memory.
 
 ## List three general categories of information in a process control block. 
-Process Identification
-Processor state information
-Process control information
+Process Identification <br />
+Processor state information <br />
+Process control information <br />
 
 ## Why are two modes (user and kernel) needed? 
 •	From a programmer's point of view, the system is the CPU used to execute instructions plus the memory used to hold instructions and data. 
