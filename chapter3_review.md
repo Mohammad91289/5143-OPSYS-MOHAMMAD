@@ -1,7 +1,7 @@
-Chapter 2 Review Questions
+Chapter 3 Review Questions
 Name: Azharuddin Hussaini Mohammad
 Course: 5143 Operating Systems
-Date: 16 Feb 2016
+Date: 02 March 2016
 
 
 ## What does it mean to preempt a process? 
