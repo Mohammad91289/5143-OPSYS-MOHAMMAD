@@ -3,10 +3,10 @@
 ## M20222811
 
 
-## Explain the differences between Threads1 and Threads2 using lines from the code and a precise explanation.
+# Explain the differences between Threads1 and Threads2 using lines from the code and a precise explanation.
 Answer: In thread 1, two threads threadA and thread B are created and are run independently with the processor. Thread2 introduced shared counter which is defined globally and is incremented in both the loops. This helps in understanding the order of execution of both the threads.
 
-## 2. After running Thread3.py does it fix the problems that occurred in Threads2.py? What's the down-side?
+# 2. After running Thread3.py does it fix the problems that occurred in Threads2.py? What's the down-side?
 Answer: The usage of Locks in ‘Thread3.py’ helps in resolving the issue of waiting time between threads in ‘thread2.py’. The methods Lock.Acquire and Lock.Release helps in locking and unblocking of threads. The down-side of Thread3.py is it takes larger execution time to previous threads.
 
 ## 3. Comment out the join statements at the bottom of the program and describe what happens.
