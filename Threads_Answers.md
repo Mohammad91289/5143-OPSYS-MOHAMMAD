@@ -1,6 +1,6 @@
-NAME: AZHARUDDIN HUSSSAINI MOHAMMAD
-DATE: 04/08/16
-M20222811
+NAME: AZHARUDDIN HUSSSAINI MOHAMMAD <br />
+DATE: 04/08/16 <br />
+M20222811 <br />
 
 
 ## 1. Explain the differences between Threads1 and Threads2 using lines from the code and a precise explanation.
